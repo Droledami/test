@@ -1,0 +1,16 @@
+{
+  "dffd06ea-0904-449b-b7e3-64aa14ff181f": {
+    "subscriptionID": "",
+    "resourceGroup": "",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true
+  },
+  "82472ecf-941a-4f81-a106-c8abce056c86": {
+    "subscriptionID": "",
+    "resourceGroup": "",
+    "mode": "Dev",
+    "location": "DefaultLocation",
+    "enableAppMonitoring": true
+  }
+}
